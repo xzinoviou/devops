@@ -4,4 +4,4 @@ spring:
     name: devops-app
 
 server:
-  port: 8080
+  port: 8002
