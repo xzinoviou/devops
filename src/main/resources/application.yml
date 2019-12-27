@@ -1,0 +1,7 @@
+
+spring:
+  application:
+    name: devops-app
+
+server:
+  port: 8080
