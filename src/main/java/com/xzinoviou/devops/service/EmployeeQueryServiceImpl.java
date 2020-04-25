@@ -26,11 +26,11 @@ public class EmployeeQueryServiceImpl implements EmployeeQueryService {
 
     private List<Employee> createEmployees() {
         return Arrays.asList(
-                new Employee(1L, "Ash", "Hollywood"),
-                new Employee(2L, "Jill", "Kelly"),
-                new Employee(3L, "Kagney", "Linn Karter"),
-                new Employee(4L, "Kaitlyn", "Ashley"),
-                new Employee(5L, "Jeanna", "Fine")
+                new Employee(1L, "Mike", "Conway"),
+                new Employee(2L, "Jimmy", "Hoffa"),
+                new Employee(3L, "Stewart", "Kewon"),
+                new Employee(4L, "Helen", "Mobius"),
+                new Employee(5L, "Fiona", "Helstrom")
         );
     }
 }
